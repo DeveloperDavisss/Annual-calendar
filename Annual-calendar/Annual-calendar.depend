@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696988812 source:/home/hideokuze/Projetos/Annual-calendar/Annual-calendar/main.c
+	<stdio.h>
+	<stdlib.h>
+
